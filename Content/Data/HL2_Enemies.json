@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Headcrab",
+    "type": "beast",
+    "hp": 20,
+    "damage": 5
+  },
+  {
+    "name": "Fast Zombie",
+    "type": "beast",
+    "hp": 40,
+    "damage": 15
+  },
+  {
+    "name": "Manhack",
+    "type": "drone",
+    "hp": 30,
+    "damage": 10
+  },
+  {
+    "name": "Combine Soldier",
+    "type": "soldier",
+    "hp": 50,
+    "damage": 10
+  },
+  {
+    "name": "Hunter",
+    "type": "strider-synapse",
+    "hp": 100,
+    "damage": 20
+  },
+  {
+    "name": "Strider",
+    "type": "boss",
+    "hp": 1500,
+    "damage": 30
+  },
+  {
+    "name": "Gunship",
+    "type": "air",
+    "hp": 800,
+    "damage": 25
+  }
+]

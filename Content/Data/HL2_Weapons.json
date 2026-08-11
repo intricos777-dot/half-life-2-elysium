@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Crowbar",
+    "type": "melee",
+    "damage": 25
+  },
+  {
+    "name": "Pistol",
+    "type": "pistol",
+    "damage": 10
+  },
+  {
+    "name": "SMG",
+    "type": "smg",
+    "damage": 8,
+    "fireRate": 10.0
+  },
+  {
+    "name": "Shotgun",
+    "type": "shotgun",
+    "damage": 100,
+    "pellets": 8
+  },
+  {
+    "name": "Crossbow",
+    "type": "sniper",
+    "damage": 250
+  },
+  {
+    "name": "AR2",
+    "type": "rifle",
+    "damage": 20,
+    "fireRate": 6.0
+  },
+  {
+    "name": "RPG",
+    "type": "explosive",
+    "damage": 200,
+    "splash": true
+  },
+  {
+    "name": "Gravity Gun",
+    "type": "physics",
+    "damage": "launch"
+  }
+]
