@@ -1,44 +1,20 @@
 [
-  {
-    "name": "Headcrab",
-    "type": "beast",
-    "hp": 20,
-    "damage": 5
-  },
-  {
-    "name": "Fast Zombie",
-    "type": "beast",
-    "hp": 40,
-    "damage": 15
-  },
-  {
-    "name": "Manhack",
-    "type": "drone",
-    "hp": 30,
-    "damage": 10
-  },
-  {
-    "name": "Combine Soldier",
-    "type": "soldier",
-    "hp": 50,
-    "damage": 10
-  },
-  {
-    "name": "Hunter",
-    "type": "strider-synapse",
-    "hp": 100,
-    "damage": 20
-  },
-  {
-    "name": "Strider",
-    "type": "boss",
-    "hp": 1500,
-    "damage": 30
-  },
-  {
-    "name": "Gunship",
-    "type": "air",
-    "hp": 800,
-    "damage": 25
-  }
+  {"name":"Headcrab","type":"beast","hp":20,"damage":5,"note":"the parasite that makes the zombie"},
+  {"name":"Zombie","type":"beast","hp":75,"damage":25,"note":"a body, a headcrab, and a grudge against City 17"},
+  {"name":"Fast Zombie","type":"beast","hp":50,"damage":18,"note":"headcrab with a sprint"},
+  {"name":"Poison Zombie","type":"beast","hp":150,"damage":30,"note":"poison headcrab — toxic blood, keening cry"},
+  {"name":"Zombie Torso","type":"beast","hp":40,"damage":20,"note":"what's left after the shotguns"},
+  {"name":"Barnacle","type":"beast","hp":50,"damage":15,"note":"ravenholm's ceiling sentinel"},
+  {"name":"Manhack","type":"robotic","hp":30,"damage":10,"note":"civil protection's lawnmower"},
+  {"name":"City Scanner","type":"robotic","hp":30,"damage":0,"note":"sees everything; calls in everything else"},
+  {"name":"Antlion","type":"beast","hp":30,"damage":10,"note":"sand hoppers of the wasteland"},
+  {"name":"Antlion Guard","type":"beast","hp":300,"damage":35,"note":"gatekeeper of the Antlion hives"},
+  {"name":"Combine Soldier","type":"soldier","hp":75,"damage":12,"note":"the occupation's boot"},
+  {"name":"Combine Elite","type":"soldier","hp":150,"damage":18,"note":"white armor, purple eyes — Overwatch's hand"},
+  {"name":"Stalker","type":"soldier","hp":50,"damage":10,"note":"a citizen, rebuilt into a socket for machinery"},
+  {"name":"Hunter","type":"robotic","hp":300,"damage":25,"note":"Strider-killer's little brother, hunting YOU"},
+  {"name":"Strider","type":"robotic","hp":900,"damage":40,"note":"tripod terror of the ruined cities"},
+  {"name":"Gunship","type":"robotic","hp":400,"damage":30,"note":"air support with a grudge"},
+  {"name":"Dropship","type":"robotic","hp":600,"damage":0,"note":"carries the tanks and the trouble"},
+  {"name":"Boss: Dr. Breen","type":"boss","hp":1500,"damage":0,"note":"Administrator, Collaborator, Voice of the Combine — the one man who chose the occupation"}
 ]
